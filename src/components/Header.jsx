@@ -9,7 +9,7 @@ const Header = () => {
 
             <div>
                 <FiShoppingCart className='text-2xl' />
-                <span className='bg-red-500 text-white'>0</span>
+
             </div>
         </div>
     )
